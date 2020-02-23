@@ -1,0 +1,10 @@
+/* Exam 1 Style.CSS*/
+
+.titles{
+  text-align: center;
+  align-items: center;
+}
+
+.lastLine{
+  font-color: grey;
+}
